@@ -1,4 +1,4 @@
-import pygame
+form module import pygame, constants
 
 def main():
 	print("Starting asteroids!")
